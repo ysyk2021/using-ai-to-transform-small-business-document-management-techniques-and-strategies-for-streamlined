@@ -1,5 +1,3 @@
-Designing and Implementing Your Document Management Plan with AI-Enabled Strategic Alignment and Resource Allocation
-=====================================================================================================================================================================
 
 In this chapter, we will explore how to design and implement a document management plan with AI-enabled strategic alignment and resource allocation.
 

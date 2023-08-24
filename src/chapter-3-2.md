@@ -1,5 +1,3 @@
-Improving Document Searchability and Retrieval with AI-Enabled Optical Character Recognition (OCR)
-=====================================================================================================================================================================
 
 In this chapter, we will explore AI applications and techniques for document management, specifically focused on improving document searchability and retrieval with AI-enabled optical character recognition (OCR).
 

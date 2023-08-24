@@ -1,5 +1,3 @@
-Tools and Software for AI-Enabled Document Planning and Performance Tracking
-============================================================================================================================================
 
 In this chapter, we will explore tools and software for AI-enabled document planning and performance tracking. These tools are essential for small businesses to effectively implement AI technology for document management and achieve greater efficiency and productivity.
 

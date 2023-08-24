@@ -1,5 +1,3 @@
-Overcoming Implementation Barriers and Resistance to Change with AI-Enabled Organizational Change Management and Training
-==========================================================================================================================================================================
 
 In this chapter, we will explore how small businesses can overcome implementation barriers and resistance to change when implementing a document management strategy with AI. We will discuss the importance of organizational change management and training in ensuring successful adoption of AI-enabled document management practices.
 

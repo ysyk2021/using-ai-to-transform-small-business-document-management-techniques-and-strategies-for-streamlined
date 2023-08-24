@@ -1,5 +1,3 @@
-Automating Document Classification and Categorization with AI-Enabled Natural Language Processing (NLP)
-==========================================================================================================================================================================
 
 In this chapter, we will explore AI applications and techniques for document management, specifically focused on automating document classification and categorization with AI-enabled natural language processing (NLP).
 

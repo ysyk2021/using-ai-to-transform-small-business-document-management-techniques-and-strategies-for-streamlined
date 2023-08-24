@@ -1,5 +1,3 @@
-Chapter 2: Understanding AI Technology for Document Management
-==============================================================
 
 In this chapter, we will explore the basic principles and processes of AI algorithms and machine learning models for document analysis and processing. We will also discuss different types of AI techniques and platforms for document management and workflow automation, as well as tools and software for AI-enabled document planning and performance tracking.
 

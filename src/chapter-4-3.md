@@ -1,5 +1,3 @@
-Improving Compliance and Governance with AI-Enabled Audit Trail and Record Keeping
-=====================================================================================================================================================
 
 In this chapter, we will explore AI applications and techniques for workflow automation, specifically focused on improving compliance and governance through AI-enabled audit trail and record keeping.
 

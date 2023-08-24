@@ -1,5 +1,3 @@
-The Changing Landscape of Document Management in Small Business Operations
-===================================================================================================
 
 In today's business landscape, small businesses face the challenge of managing an increasing volume of documents and information. Document management is a critical component of business operations, but traditional manual processes can be time-consuming, costly, and prone to errors.
 

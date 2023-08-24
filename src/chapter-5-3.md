@@ -1,5 +1,3 @@
-Leveraging AI Insights and Analytics for Continuous Document Improvement and Optimization
-==========================================================================================================================================
 
 In this chapter, we will explore how small businesses can develop a document management strategy with AI by leveraging AI insights and analytics for continuous document improvement and optimization.
 

@@ -1,5 +1,3 @@
-Enhancing Document Collaboration and Versioning with AI-Enabled Intelligent Document Management Systems (IDMS)
-=================================================================================================================================================================================
 
 In this chapter, we will explore AI applications and techniques for document management, specifically focused on enhancing document collaboration and versioning with AI-enabled intelligent document management systems (IDMS).
 

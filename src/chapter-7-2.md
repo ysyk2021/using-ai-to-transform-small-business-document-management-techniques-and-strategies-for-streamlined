@@ -1,5 +1,3 @@
-Challenges and Risks of AI Adoption in Document Management and How to Overcome Them
-======================================================================================================================================================
 
 In this chapter, we will explore the challenges and risks associated with AI adoption in small business document management and how to overcome them.
 

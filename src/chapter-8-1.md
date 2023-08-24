@@ -1,5 +1,3 @@
-The Potential of AI in Enabling Small Business Growth through Streamlined Document Management
-====================================================================================================================
 
 In this book, we have explored how AI can transform small business document management techniques and strategies for streamlining operations. In this chapter, we will discuss the potential of AI in enabling small business growth through streamlined document management.
 

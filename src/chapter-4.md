@@ -1,5 +1,3 @@
-Chapter 4: AI Applications and Techniques for Workflow Automation
-=================================================================
 
 In this chapter, we will explore AI applications and techniques for workflow automation, specifically focused on streamlining document approval and verification with AI-enabled intelligent workflows, simplifying data entry and processing with AI-enabled robotic process automation (RPA), and improving compliance and governance with AI-enabled audit trail and record keeping.
 

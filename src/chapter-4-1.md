@@ -1,5 +1,3 @@
-Streamlining Document Approval and Verification with AI-Enabled Intelligent Workflows
-========================================================================================================================================================
 
 In this chapter, we will explore AI applications and techniques for workflow automation, specifically focused on streamlining document approval and verification through AI-enabled intelligent workflows.
 

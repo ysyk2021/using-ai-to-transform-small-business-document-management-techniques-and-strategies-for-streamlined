@@ -1,5 +1,3 @@
-Simplifying Data Entry and Processing with AI-Enabled Robotic Process Automation (RPA)
-=========================================================================================================================================================
 
 In this chapter, we will explore AI applications and techniques for workflow automation, specifically focused on simplifying data entry and processing through AI-enabled robotic process automation (RPA).
 

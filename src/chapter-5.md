@@ -1,5 +1,3 @@
-Chapter 5: Document Management Strategy with AI
-===============================================
 
 In this chapter, we will explore how to design and implement a document management strategy with AI. We will discuss AI-enabled strategic alignment and resource allocation, overcoming implementation barriers and resistance to change with AI-enabled organizational change management and training, and leveraging AI insights and analytics for continuous document improvement and optimization.
 

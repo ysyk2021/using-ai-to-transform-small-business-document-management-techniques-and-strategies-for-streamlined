@@ -1,5 +1,3 @@
-Chapter 6: Evaluating the Impact of AI on Document Management
-=============================================================
 
 In this chapter, we will explore how to evaluate the impact of AI on document management in small businesses. We will discuss measuring effectiveness and benefits, identifying key performance metrics and goals, and optimizing AI-enabled document management for business performance and growth.
 

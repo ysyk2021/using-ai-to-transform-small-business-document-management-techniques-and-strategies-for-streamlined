@@ -1,5 +1,3 @@
-Different Types of AI Techniques and Platforms for Document Management and Workflow Automation
-==============================================================================================================================================================
 
 In this chapter, we will explore different types of AI techniques and platforms used for document management and workflow automation.
 

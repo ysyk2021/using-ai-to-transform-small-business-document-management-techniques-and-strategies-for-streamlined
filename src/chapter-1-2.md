@@ -1,5 +1,3 @@
-The Role of AI in Transforming Small Business Document Management
-==========================================================================================
 
 In today's digital age, small businesses are faced with the challenge of managing an increasing volume of documents and information. Document management is a critical component of business operations, but it can be time-consuming, costly, and prone to errors.
 

@@ -1,5 +1,3 @@
-Basic Principles and Processes of AI Algorithms and Machine Learning Models for Document Analysis and Processing
-================================================================================================================================================================================
 
 In this chapter, we will explore the basic principles and processes of AI algorithms and machine learning models for document analysis and processing. Understanding these concepts is essential for small businesses to effectively leverage AI technology for document management.
 
