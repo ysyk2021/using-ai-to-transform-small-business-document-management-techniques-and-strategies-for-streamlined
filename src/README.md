@@ -8,3 +8,7 @@ This book will provide practical guidance on how to use AI to transform small bu
 Whether you're a small business owner looking to streamline your document management processes or an IT professional seeking to enhance your organization's technology infrastructure, this book will provide the insights and tools you need to leverage AI for improved document management. Let's get started!
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
