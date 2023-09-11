@@ -1,5 +1,4 @@
-Chapter 4: Different Types of AI Techniques and Platforms for Document Management and Workflow Automation
-=========================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the realm of small business document management, leveraging a diverse array of AI techniques and platforms is essential for achieving streamlined operations. This chapter explores the various AI techniques and platforms that can be harnessed to transform document management and automate workflows efficiently.
 

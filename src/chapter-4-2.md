@@ -1,5 +1,4 @@
-Chapter 3: Simplifying Data Entry and Processing with AI-Enabled Robotic Process Automation (RPA)
-=================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the realm of small business document management, the process of data entry and processing can be a time-consuming and error-prone task. The integration of AI-enabled Robotic Process Automation (RPA) offers a transformative solution. This chapter explores the techniques and strategies for harnessing AI-powered RPA to streamline data entry and processing in small business operations.
 

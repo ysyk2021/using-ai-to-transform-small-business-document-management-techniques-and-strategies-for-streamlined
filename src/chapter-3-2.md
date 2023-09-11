@@ -1,5 +1,4 @@
-Chapter 4: Improving Document Searchability and Retrieval with AI-Enabled Optical Character Recognition (OCR)
-=============================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the age of digital transformation, small businesses are increasingly turning to AI-powered solutions to enhance their document management practices. This chapter delves into the transformative capabilities of AI-Enabled Optical Character Recognition (OCR) technology in improving document searchability and retrieval, paving the way for streamlined operations and efficient information retrieval.
 

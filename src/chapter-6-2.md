@@ -1,5 +1,4 @@
-Chapter 6: Identifying Key Performance Metrics and Goals for AI-Enabled Document Improvement and Optimization
-=============================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the essential aspect of identifying key performance metrics and setting clear goals when implementing AI for document management in small businesses. Understanding and defining these metrics is crucial for streamlining operations and achieving success in your document improvement and optimization efforts.
 

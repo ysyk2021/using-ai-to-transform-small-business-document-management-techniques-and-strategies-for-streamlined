@@ -1,5 +1,4 @@
-Chapter 8: Overcoming Implementation Barriers and Resistance to Change with AI-Enabled Organizational Change Management and Training
-====================================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Implementing AI in small business document management represents a significant shift in operations. To ensure a smooth transition and maximize the benefits, it's crucial to address implementation barriers and manage resistance to change effectively. In this chapter, we explore strategies for leveraging AI-enabled organizational change management and training to facilitate successful integration.
 

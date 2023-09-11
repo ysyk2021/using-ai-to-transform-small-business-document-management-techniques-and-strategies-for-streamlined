@@ -1,5 +1,4 @@
-Chapter 7: Streamlining Document Approval and Verification with AI-Enabled Intelligent Workflows
-================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the strategies and techniques for streamlining document approval and verification processes in small businesses using AI-enabled intelligent workflows. These workflows are designed to enhance efficiency, accuracy, and compliance while reducing the manual workload associated with document management.
 

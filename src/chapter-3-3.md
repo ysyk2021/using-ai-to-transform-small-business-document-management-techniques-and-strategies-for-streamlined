@@ -1,5 +1,4 @@
-Chapter 7: Enhancing Document Collaboration and Versioning with AI-Enabled Intelligent Document Management Systems (IDMS)
-=========================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the modern business landscape, effective document collaboration and version control are paramount. This chapter explores the transformative potential of AI-enabled Intelligent Document Management Systems (IDMS) to revolutionize document collaboration and versioning for small businesses.
 

@@ -1,5 +1,4 @@
-Chapter 6: Automating Document Classification and Categorization with AI-Enabled Natural Language Processing (NLP)
-==================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In today's fast-paced business environment, efficient document classification and categorization are vital for streamlined operations. This chapter explores the transformative potential of AI-Enabled Natural Language Processing (NLP) in automating document classification and categorization for small businesses.
 

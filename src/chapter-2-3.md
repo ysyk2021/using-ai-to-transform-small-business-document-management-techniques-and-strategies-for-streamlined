@@ -1,5 +1,4 @@
-Chapter 8: Tools and Software for AI-Enabled Document Planning and Performance Tracking
-=======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the journey to transform small business document management through AI, selecting the right tools and software is paramount. This chapter explores the essential tools and software solutions for effective document planning, implementation, and performance tracking in the context of AI-enabled operations.
 

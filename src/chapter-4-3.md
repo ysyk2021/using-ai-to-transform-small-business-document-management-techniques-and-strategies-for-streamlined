@@ -1,5 +1,4 @@
-Chapter 5: Improving Compliance and Governance with AI-Enabled Audit Trail and Record Keeping
-=============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the ever-evolving landscape of small business operations, maintaining strict compliance and governance standards is crucial. Leveraging the power of AI to establish an efficient audit trail and enhance record-keeping processes can be a game-changer. This chapter delves into the techniques and strategies for utilizing AI to ensure compliance and governance in small business document management.
 

@@ -1,5 +1,4 @@
-Chapter 10: Emerging Trends and Opportunities in AI for Small Business Document Management and Workflow Automation
-==================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As the world of small business document management continues to evolve, it's essential to stay attuned to emerging trends and seize new opportunities enabled by AI. This chapter explores the cutting-edge developments and promising avenues that can transform document management and workflow automation for small businesses.
 
